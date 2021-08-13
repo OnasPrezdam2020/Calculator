@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+    height: auto;
+    margin: 30px auto;
+}
+
+input.design {
+    display: block;
+    margin: 30px auto;
+    border: 2px solid #000000c7;
+    width: 50%;
+    height: 50px;
+    border-radius: 6px 6px;
+    background: #46464608;
+    padding: 0 8px;
+    font-size: 2rem;
+}
